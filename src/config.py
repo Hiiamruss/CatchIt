@@ -1,0 +1,6 @@
+W, H = 800, 600
+FPS = 40
+
+
+HOMESCREEN = "hs"
+LEVEL1 = "1"
